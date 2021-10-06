@@ -4,6 +4,6 @@ public class Main {
         int ticket1Mile = 20;
         int accruedMiles = ticketPrice / ticket1Mile;
         System.out.println(accruedMiles + "miles");
-
+        System.out.println("50miles");
     }
 }
